@@ -1,0 +1,8 @@
+NEO_ENABLE_HTTP=1
+NEO_HTTP_PORT=8080
+NEO_USE_AI=1
+NEO_ALLOW_OCR=1
+NEO_TYPE_MODE=1
+OPENROUTER_API_KEY=your_key_here
+OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
+OPENROUTER_MODEL=google/gemini-2.0-flash-exp:free
